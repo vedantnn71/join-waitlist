@@ -1,0 +1,13 @@
+{
+  "name": "@joinwaitlist/api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cargo run",
+    "build": "cargo build --release"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
